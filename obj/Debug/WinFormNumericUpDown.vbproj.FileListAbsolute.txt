@@ -1,0 +1,12 @@
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\bin\Debug\WinFormNumericUpDown.exe.config
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\bin\Debug\WinFormNumericUpDown.exe
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\bin\Debug\WinFormNumericUpDown.pdb
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\bin\Debug\WinFormNumericUpDown.xml
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\obj\Debug\WinFormNumericUpDown.vbprojAssemblyReference.cache
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\obj\Debug\WinFormNumericUpDown.Resources.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\obj\Debug\WinFormNumericUpDown.vbproj.GenerateResource.cache
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\obj\Debug\WinFormNumericUpDown.vbproj.CoreCompileInputs.cache
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\obj\Debug\WinFormNumericUpDown.exe
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\obj\Debug\WinFormNumericUpDown.xml
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\obj\Debug\WinFormNumericUpDown.pdb
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\WinFormNumericUpDown\obj\Debug\WinFormNumericUpDown.frmTienda.resources
